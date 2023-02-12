@@ -1,7 +1,7 @@
 # DarkRPG
 RPG Modpack Featuring Quests, Classes, Magic, MMO Server
 
-Watch the Extended Trailer - https://youtu.be/BsMOK6TJs-g
+Watch video - https://youtu.be/5sL5Pls2MBo
 
 FABRIC Version - https://www.curseforge.com/minecraft/modpacks/darkrpg (Official DarkRPG Server supported)
 
