@@ -1,9 +1,11 @@
 # DarkRPG
 RPG Modpack Featuring Quests, Classes, Magic, MMO Server
 
-FABRIC Version - https://www.curseforge.com/minecraft/modpacks/darkrpg (Official DarkRPG Server supported)
+FABRIC Version - https://www.curseforge.com/minecraft/modpacks/darkrpg (Official DarkRPG Server supported (Fabric only))
 
-FORGE Version - https://www.curseforge.com/minecraft/modpacks/darkrpg-forge (Official DarkRPG Server not supported)
+FORGE Version - https://www.curseforge.com/minecraft/modpacks/darkrpg-forge (Official DarkRPG Server supported (Forge only))
+
+REDUX Version (1.18.2) - https://www.curseforge.com/minecraft/modpacks/darkrpg-redux (Official DarkRPG Server not supported)
 
 DarkRPG Server Information - https://www.gamerpotion.net/p/darkrpg.html
 
